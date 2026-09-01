@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Privacy Policy - BiCalc</title>
+<style>
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+    line-height: 1.6;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 40px 20px;
+    color: #222;
+    background: #fafafa;
+  }
+  h1 {
+    color: #1565C0;
+    border-bottom: 3px solid #1565C0;
+    padding-bottom: 10px;
+  }
+  h2 {
+    color: #1565C0;
+    margin-top: 32px;
+  }
+  .updated {
+    color: #666;
+    font-style: italic;
+    margin-bottom: 24px;
+  }
+  ul {
+    padding-left: 24px;
+  }
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 16px 0;
+  }
+  th, td {
+    border: 1px solid #ddd;
+    padding: 10px;
+    text-align: left;
+  }
+  th {
+    background: #E3F2FD;
+  }
+  .contact-box {
+    background: #E3F2FD;
+    border-left: 4px solid #1565C0;
+    padding: 16px 20px;
+    margin: 20px 0;
+    border-radius: 4px;
+  }
+  footer {
+    margin-top: 40px;
+    padding-top: 16px;
+    border-top: 1px solid #ddd;
+    color: #888;
+    font-size: 0.9em;
+  }
+</style>
+</head>
+<body>
+
+<h1>Privacy Policy for BiCalc</h1>
+<p class="updated">Last updated: September 1, 2026</p>
+
+<p>
+This Privacy Policy explains how the <strong>BiCalc</strong> application ("the App") collects, uses, and protects user information. BiCalc is developed and maintained by <strong>PT Tifa Pratama Jaya</strong>. By downloading and using this App, you agree to the practices described in this policy.
+</p>
+
+<h2>1. About the App</h2>
+<p>
+BiCalc is a simple calculator application that displays calculation results both as numbers and as their spoken form in Wos Byak (the local language of the Biak-Numfor people of Papua, Indonesia). The App is designed to support the learning and preservation of this local language while providing standard calculator functionality.
+</p>
+
+<h2>2. Information We Collect</h2>
+<p>BiCalc is designed to work without requiring account registration and does not directly request personal data from users. However, some data may be collected automatically as described below:</p>
+
+<h3>a. Calculation Data</h3>
+<p>Numbers and calculation results you enter are processed <strong>locally on your device</strong> and are <strong>not transmitted, stored, or shared</strong> with our servers or any third party.</p>
+
+<h3>b. Data from Advertising Services (Google AdMob)</h3>
+<p>This App displays banner ads through <strong>Google AdMob</strong>. To serve ads, including relevant/personalized ads, AdMob may collect data such as:</p>
+<ul>
+  <li>Device identifiers (Advertising ID / GAID)</li>
+  <li>General device information (model, operating system, language)</li>
+  <li>Approximate location data (based on IP address)</li>
+  <li>Ad interaction data (clicks, impressions)</li>
+</ul>
+<p>Data collection by AdMob is governed by Google's own privacy policies. You can learn more and manage your ad preferences through the following links:</p>
+<ul>
+  <li><a href="https://policies.google.com/privacy" target="_blank">Google Privacy Policy</a></li>
+  <li><a href="https://policies.google.com/technologies/ads" target="_blank">How Google Uses Advertising Data</a></li>
+  <li><a href="https://adssettings.google.com" target="_blank">Google Ads Settings</a></li>
+</ul>
+
+<h2>3. How We Use Information</h2>
+<table>
+  <tr>
+    <th>Data Type</th>
+    <th>Purpose of Use</th>
+  </tr>
+  <tr>
+    <td>Calculator input/output</td>
+    <td>Processed solely to display results on screen; not collected by us</td>
+  </tr>
+  <tr>
+    <td>Advertising ID &amp; ad data (via AdMob)</td>
+    <td>Displaying banner ads within the App, including personalization based on your device's ad settings</td>
+  </tr>
+</table>
+
+<h2>4. Sharing Data with Third Parties</h2>
+<p>
+We do not sell, rent, or trade user data. The only third party that receives data related to your use of the App is <strong>Google AdMob</strong>, solely for the purpose of serving advertisements as described in Section 2b.
+</p>
+
+<h2>5. Data Storage</h2>
+<p>
+App settings such as your selected color theme are stored locally on your device using the app's internal storage and are not transmitted to any server.
+</p>
+
+<h2>6. Children's Privacy</h2>
+<p>
+BiCalc is not specifically directed at children under the age of 13, and we do not knowingly collect personal data from children. If you are a parent or guardian and believe your child has provided us with personal data, please contact us using the details below so that such data can be removed.
+</p>
+
+<h2>7. Data Security</h2>
+<p>
+We take reasonable technical measures to protect the security of the App. However, no method of electronic transmission or storage is 100% secure.
+</p>
+
+<h2>8. Changes to This Privacy Policy</h2>
+<p>
+This Privacy Policy may be updated from time to time. Any changes will be posted on this page along with the updated "last updated" date. We encourage you to review this page periodically.
+</p>
+
+<h2>9. Contact Us</h2>
+<div class="contact-box">
+  <p><strong>PT Tifa Pratama Jaya</strong><br>
+  Jayapura, Papua, Indonesia<br>
+  Email: <a href="mailto:developer@tifapratamajaya.com">developer@tifapratamajaya.com</a><br>
+  Website: <a href="https://tifapratamajaya.com" target="_blank">tifapratamajaya.com</a></p>
+</div>
+
+<footer>
+  &copy; 2026 PT Tifa Pratama Jaya. All rights reserved.
+</footer>
+
+</body>
+</html>
