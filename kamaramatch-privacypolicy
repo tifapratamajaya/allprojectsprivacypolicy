@@ -1,0 +1,116 @@
+KEBIJAKAN PRIVASI
+Kamara Match (Onet Budaya Biak)
+
+Berlaku sejak: 21 September 2026
+Dikembangkan oleh: PT Tifa Pratama Jaya
+Kota Jayapura, Papua, Indonesia
+
+
+1. PENDAHULUAN
+Kebijakan Privasi ini menjelaskan bagaimana aplikasi permainan "Kamara Match"
+(juga dikenal dengan nama tampilan "Onet Budaya Biak"), dengan ID paket
+tpj.bh.kamaramatch, memperlakukan data pengguna. Aplikasi ini dikembangkan dan
+dikelola oleh PT Tifa Pratama Jaya. Dengan mengunduh, memasang, atau
+menggunakan aplikasi ini, Anda dianggap telah membaca dan menyetujui
+Kebijakan Privasi ini.
+
+
+2. RINGKASAN SINGKAT
+Kamara Match adalah permainan mencocokkan gambar (matching/pairing) bertema
+budaya Biak yang berjalan sepenuhnya secara lokal (offline) di perangkat
+Anda. Aplikasi ini:
+
+- Tidak memerlukan koneksi internet untuk dimainkan.
+- Tidak meminta izin (permission) apa pun dari sistem Android, termasuk
+  izin akses internet, lokasi, kamera, mikrofon, kontak, penyimpanan, atau
+  identitas perangkat.
+- Tidak mengumpulkan, menyimpan, mengirim, menjual, atau membagikan data
+  pribadi apa pun kepada pengembang maupun pihak ketiga.
+- Tidak menampilkan iklan.
+- Tidak menggunakan alat analitik, pelacak (tracker), SDK pihak ketiga,
+  atau layanan iklan/analitik pihak ketiga dalam bentuk apa pun.
+- Tidak memerlukan pembuatan akun, login, atau proses verifikasi identitas.
+- Tidak melakukan pembelian dalam aplikasi (in-app purchase).
+
+
+3. DATA YANG DIPROSES OLEH APLIKASI
+Karena aplikasi berjalan sepenuhnya secara offline, tidak ada data yang
+dikirimkan keluar dari perangkat Anda. Satu-satunya data yang disimpan
+adalah data berikut, dan seluruhnya tersimpan secara lokal di perangkat
+Anda sendiri:
+
+a. Preferensi bahasa
+   Pilihan bahasa aplikasi (Bahasa Indonesia atau English) disimpan secara
+   lokal di perangkat menggunakan mekanisme penyimpanan bawaan Android
+   (SharedPreferences) semata-mata untuk kenyamanan Anda saat membuka
+   aplikasi kembali. Data ini tidak pernah dikirim ke pengembang atau pihak
+   mana pun, dan akan terhapus otomatis jika aplikasi dihapus (uninstall)
+   dari perangkat Anda.
+
+b. Data permainan sementara
+   Status permainan yang sedang berlangsung (misalnya papan permainan,
+   jumlah langkah, waktu, dan petunjuk yang digunakan) hanya tersimpan
+   sementara di memori perangkat selama aplikasi digunakan dan tidak
+   dikirim atau disinkronkan ke mana pun.
+
+Aplikasi ini tidak mengumpulkan informasi pengenal pribadi (nama, alamat
+email, nomor telepon, lokasi, foto, kontak), data perangkat (IMEI, ID
+iklan, alamat IP), maupun data penggunaan/analitik dalam bentuk apa pun.
+
+
+4. IZIN (PERMISSIONS) APLIKASI
+Aplikasi Kamara Match tidak meminta izin sensitif maupun izin sistem
+apa pun. Berkas manifest aplikasi tidak mendeklarasikan permintaan izin
+apa pun, termasuk izin akses internet, sehingga aplikasi tidak memiliki
+kemampuan teknis untuk mengirim data ke luar perangkat.
+
+
+5. IKLAN DAN PIHAK KETIGA
+Aplikasi ini tidak mengandung SDK iklan (misalnya Google AdMob atau
+sejenisnya), SDK analitik (misalnya Google Analytics, Firebase Analytics),
+SDK layanan permainan pihak ketiga, maupun pustaka pelacakan lainnya.
+Tidak ada data yang dibagikan kepada pihak ketiga karena aplikasi tidak
+terhubung ke layanan atau server pihak ketiga mana pun.
+
+
+6. PRIVASI ANAK
+Kamara Match adalah permainan edukatif yang aman digunakan oleh semua
+kalangan usia, termasuk anak-anak, karena aplikasi tidak mengumpulkan data
+pribadi apa pun dari pengguna, termasuk dari anak-anak di bawah usia 13
+tahun (atau batas usia yang berlaku di yurisdiksi masing-masing).
+
+
+7. KEAMANAN DATA
+Karena seluruh data yang tersimpan (preferensi bahasa) hanya berada secara
+lokal di perangkat Anda dan tidak pernah dikirim keluar, tidak ada risiko
+kebocoran data melalui aplikasi ini ke server atau pihak luar. Keamanan
+data pada penyimpanan lokal perangkat mengikuti mekanisme keamanan sistem
+operasi Android itu sendiri.
+
+
+8. HAK PENGGUNA
+Karena aplikasi tidak menyimpan data pribadi apa pun di luar perangkat
+Anda, tidak ada data pengguna yang dipegang oleh PT Tifa Pratama Jaya yang
+perlu diminta, diubah, atau dihapus. Anda dapat menghapus seluruh data
+lokal aplikasi (termasuk preferensi bahasa) kapan saja dengan cara:
+- Menghapus data aplikasi melalui menu Pengaturan > Aplikasi pada
+  perangkat Android Anda, atau
+- Meng-uninstall (menghapus pemasangan) aplikasi dari perangkat Anda.
+
+
+9. PERUBAHAN KEBIJAKAN PRIVASI
+Kebijakan Privasi ini dapat diperbarui sewaktu-waktu apabila terdapat
+perubahan pada fitur aplikasi. Perubahan akan tercermin pada tanggal
+"Berlaku sejak" di bagian atas dokumen ini. Penggunaan aplikasi secara
+berkelanjutan setelah adanya perubahan dianggap sebagai persetujuan atas
+Kebijakan Privasi yang telah diperbarui.
+
+
+10. KONTAK
+Apabila Anda memiliki pertanyaan mengenai Kebijakan Privasi ini, silakan
+hubungi:
+
+PT Tifa Pratama Jaya
+Kota Jayapura, Papua, Indonesia
+Email: developer@tifapratamajaya.com
+Telepon/WhatsApp: +62 823-4554-1503
